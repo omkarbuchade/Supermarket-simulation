@@ -1,5 +1,5 @@
 # Supermarket-simulation
-Supermarket cashier simulation using Nachos to determine to number of cashiers required based average number of customers at different time.
+Supermarket cashier simulation using Nachos to determine the number of cashiers required based on the average number of customers at different times.
 
 Following are the constraints upon which the simulation is based:
 1. Each cashier line is a queue object.
